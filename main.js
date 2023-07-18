@@ -58,7 +58,6 @@ if (title.value != "" && price.value != "" && category.value != '' && newpro.cou
   }
   clearInput();
 }
-  // count
 
   // save local storge
   localStorage.setItem("product", JSON.stringify(datapro));
