@@ -1,6 +1,6 @@
 Live Version: https://mohamed-sayed-elmahdy.github.io/Cruds-Project/
 
-![CRUDs Project](Screen shot for the application/Cruds Project.png)
+![CRUDs Project]([https://your-copied-image-address](https://raw.githubusercontent.com/mohamed-sayed-elmahdy/Cruds-Project/master/Screen%20shot%20for%20the%20application/Cruds%20Project.png))
 
 # CRUDs Project
 
